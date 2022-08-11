@@ -1,2 +1,2 @@
 # algoritmos
-Material de Asignatura de Algoritmos UNAL 2022-2
+Repositorio para Asignatura de Algoritmos Grupo 2 UNAL 2022-2
